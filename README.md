@@ -1,2 +1,1 @@
-BMI Calculator
-Flutter Exercise
+Flutter App BMI Calculator
